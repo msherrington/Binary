@@ -1,4 +1,3 @@
-
 def binary(n):
     array = []
     while n > 0:
